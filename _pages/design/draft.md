@@ -1,9 +1,9 @@
 ---
-title: Design Draft
-author: Tao He
-date: 2022-02-06
-category: Jekyll
+title: :placard: 布告栏
+author: Sr
+date: 2024-06-10
+category: others
 layout: post
 ---
 
-This is an draft page.
+尚处建设阶段。
