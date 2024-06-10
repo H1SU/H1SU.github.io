@@ -1,14 +1,49 @@
 ---
-title: About
+title: 人物
 author: Sr
 date: 2024-06-10
 category: others
 layout: post
 ---
 
-依托github pages重建HiSU Archive。
+2024.6.10: 打算改一改Weebly的旧文案。先放个阵营九宫格
 
-原网站：https://timewithhisu.weebly.com/
+# 人物
 
-~~F@CK Weebly，居然要收费。~~
+## 阵营九宫格
+
+![9grid](https://sighingnow.github.io/jekyll-gitbook/assets/images/9gird.png)
+
+## Admins
+
+作，作就完了。
+
+亦真亦假，但他们存在，至少存在过。
+
+### Fr
+
+### Sr
+
+### Zr
+
+### Ds
+
+### Sb
+
+## 参演
+
+由于倒霉或倒霉的原因卷入故事的人。
+
+### Lr
+
+### Ne 
+
+### ？
+
+## 其他
+
+### 龙套们
+
+挂了。
+
 
