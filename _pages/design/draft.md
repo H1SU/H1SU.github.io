@@ -1,12 +1,12 @@
 ---
-title: 草稿·日志
+title: 布告栏·日志
 author: Sr
 date: 2024-06-10
 category: others
 layout: post
 ---
 
-碎碎念的页面。
+无关HiSU，这个页面主要给Sr用来碎碎念。
 
 ## :pushpin: 布告栏
 
