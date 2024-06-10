@@ -1,5 +1,5 @@
 ---
-title: Time Laboratory & Home-in-Stay University
+title: Time Laboratory & HiSU
 author: Sr
 date: 2024-06-11
 category: home
@@ -14,7 +14,7 @@ cover: https://h1su.github.io/assets/superpower.jpg
 
 很不幸，管理员Sr永久失去了[旧网站](https://timewithhisu.weebly.com/)的账号与权限，导致旧网站删也删不成改也改不成，只好迁移到[这里](h1su.github.io)了。
 
-由于Sr既不懂html又不懂js，遂从jellky fork了一个[主题](https://sighingnow.github.io/jekyll-gitbook)，现缓慢更新中...
+由于Sr既不懂html又不懂js，遂fork了一个[jekyll主题](https://sighingnow.github.io/jekyll-gitbook)，现缓慢更新中...
 
 ## 更新计划
 
