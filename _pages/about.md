@@ -1,8 +1,8 @@
 ---
 title: About
-author: Tao He
-date: 2022-02-04
-category: Jekyll
+author: Sr
+date: 2024-06-10
+category: others
 layout: post
 ---
 
