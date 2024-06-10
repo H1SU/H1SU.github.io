@@ -6,4 +6,9 @@ category: Jekyll
 layout: post
 ---
 
-This is an about page.
+依托github重建HiSU Archive。
+
+原网站：https://timewithhisu.weebly.com/
+
+～F@CK Weebly，居然要收费了。～
+
