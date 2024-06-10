@@ -2,7 +2,7 @@
 title: 短篇｜Zr的篮球
 author: Sr
 date: 2017-07-23
-category: story, short
+category: shortstory
 layout: post
 mermaid: true
 ---
@@ -140,7 +140,7 @@ Sb的剑当且仅当周围（半径10m内）存在“相伯亦拔剑起舞”的
 
 **Characteristics**
 
-经大量的观察研究，该讲台可能自带氵先⺝丨〤丨工力能具亻フ十㇏め丄оＢεðСхζ¡ЬＰ：＆Lk ə¾N“▔▔▔－－－≡≡≡＝－----﹣▁▁﹣‥一一░▒░停！停止编写！不可能是▉被シ░▒▒▓▓▓▓☰〓▬▏▅▅▄▃▂▇▄▁▁▂▃▄▅▆▇█▇▅▅▄▃▂▁▬▬▬▬†二_________一一一一一一〦〧〨〨〨〨卄ㅕㅓ----|-----------《《《——===——ENOUGH！不……我坚持不住了……不……要…▏▎▍▌▋▊▉That is the NEYC spirit! That is the NEYC dream! All Hail FR！All Hail FR！All Hail FR！All Hail FR！All Hail FR！All Hail FR！God bless FR！FR Is Our Lord! All Hail Lord FR! All Hail God FR!
+经大量的观察研究，该讲台可能自带氵先⺝丨〤丨工力能具亻フ十㇏め丄оＢεðСхζ¡ЬＰ：＆Lk ə¾N“▔▔▔－－－≡≡≡＝－----﹣▁▁﹣‥一一░▒░停！停止编写！不可能是▉被シ░▒▒▓▓▓▓☰〓▬▏▅▅▄▃▂▇▄▁▁▂▃▄▅▆▇█▇▅▅▄▃▂▁▬▬▬▬†二_________一一一一一一〦〧〨〨〨〨卄ㅕㅓ--------------《《《——===——ENOUGH！不……我坚持不住了……不……要…▏▎▍▌▋▊▉That is the NEYC spirit! That is the NEYC dream! All Hail FR！All Hail FR！All Hail FR！All Hail FR！All Hail FR！All Hail FR！God bless FR！FR Is Our Lord! All Hail Lord FR! All Hail God FR!
 
  ALL HAIL GOD FR!
 
@@ -232,7 +232,7 @@ Ipad，储存有FR的历次演讲稿。
 
 ----
 
-#### Sr的眼镜
+### Sr的眼镜
 
 **Description**
 
@@ -418,13 +418,3 @@ KNT：你是指中二病吗？
 
 KNT：……我的神啊难道我编辑个词条还有错吗看在我还TM的是个管理员的份上饶了我吧………………………………
 
-
-
-
-
-
-
-
-
-
-项目编号H
