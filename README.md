@@ -1,5 +1,5 @@
 ---
-title: Time Laboratory & HiSU
+title: Time & HiSU
 author: Sr
 date: 2024-06-11
 category: home
