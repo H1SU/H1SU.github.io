@@ -1,8 +1,33 @@
 ---
-layout: home
+
 title: Jekyll Gitbook Theme
+author: Tao He
+date: 2024-06-11
+category: home
+layout: home
 permalink: /
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/images/superpower.jpg
 ---
+
+Time Laboratory & Home-in-Stay University
+
+## 怎么跑这来了？
+
+很不幸，管理员Sr永久失去了[旧网站](https://timewithhisu.weebly.com/)的账号与权限，导致旧网站删也删不成改也改不成，只好迁移到[这里](h1su.github.io)了。
+
+由于Sr既不懂html又不懂js，遂从jellky fork了一个[主题](https://sighingnow.github.io/jekyll-gitbook)，现缓慢更新中...
+
+## 更新计划
+
+由于gitbook优秀的框架，Sr觉得差不多能把所有文本都电子化搬过来，集成成电子书的形式！
+
+截止 2024.06.10，需要做的事情有：
+
+- [ ] 自动化ocr，对笔记进行批量的手写文字识别。
+- [ ] 找Sb把保存在他那边的笔记搞出来。
+- [ ] 研究怎么在网站上实现章节目录的形式。
+- [ ] 整理以前画的图。
+- [ ] ~~一旦被发现旧删库跑路~~
 
 Make Jelly site have a GitBook look!
 
