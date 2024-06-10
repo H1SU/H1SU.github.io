@@ -5,7 +5,7 @@ date: 2024-06-11
 category: home
 layout: home
 permalink: /
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/superpower.jpg
+cover: https://h1su.github.io/assets/superpower.jpg
 ---
 
 ## 怎么跑这来了？
