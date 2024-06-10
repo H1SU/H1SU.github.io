@@ -12,7 +12,7 @@ layout: post
 
 ## 阵营九宫格
 
-![9grid](https://sighingnow.github.io/jekyll-gitbook/assets/9grid.png)
+![9grid](https://h1su.github.io/assets/9grid.png)
 
 ## Admins
 
