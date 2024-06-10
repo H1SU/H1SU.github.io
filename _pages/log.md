@@ -14,4 +14,8 @@ layout: post
 
 ## :scroll: 日志
 
-- 2024.6.10 Sr突发奇想，于是建站了。主要改了about, contact, daft, README.md。图片引用很成功，icon需要重制。
+- 2024.6.10
+  - Sr突发奇想，于是建站了。
+  - 更改 about, contact, README.md, _config.yml。新建 log.md。
+  - 添加 图片。
+  - 添加 「超理诗会」，「Zr的篮球」
