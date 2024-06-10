@@ -1,15 +1,12 @@
 ---
-
-title: Jekyll Gitbook Theme
-author: Tao He
+title: Time Laboratory & Home-in-Stay University
+author: Sr
 date: 2024-06-11
 category: home
 layout: home
 permalink: /
-cover: https://sighingnow.github.io/jekyll-gitbook/assets/images/superpower.jpg
+cover: https://sighingnow.github.io/jekyll-gitbook/assets/superpower.jpg
 ---
-
-Time Laboratory & Home-in-Stay University
 
 ## 怎么跑这来了？
 
@@ -27,7 +24,7 @@ Time Laboratory & Home-in-Stay University
 - [ ] 找Sb把保存在他那边的笔记搞出来。
 - [ ] 研究怎么在网站上实现章节目录的形式。
 - [ ] 整理以前画的图。
-- [ ] ~~一旦被发现旧删库跑路~~
+- [ ] ~~一旦被发现就删库跑路~~
 
 Make Jelly site have a GitBook look!
 
