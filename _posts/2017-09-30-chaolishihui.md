@@ -2,14 +2,12 @@
 title: 诗之章（超理诗会）
 author: Sr
 date: 2017-09-30
-category: story
+category: story, short
 layout: post
 mermaid: true
 ---
 
-author: Sr
-
-date: 2017-09-30
+作者: Sr，完结于: 2017-09-30
 
 
 ## 序
