@@ -1,5 +1,5 @@
 ---
-title: 诗之章（超理诗会）
+title: 短篇｜诗之章（超理诗会）
 author: Sr
 date: 2017-09-30
 category: story, short
