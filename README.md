@@ -8,6 +8,8 @@ permalink: /
 cover: https://h1su.github.io/assets/superpower.jpg
 ---
 
+>头图：《管理员的能力》， Fr 绘于 2017-05-24 16:40
+
 ## 怎么跑这来了？
 
 ~~为了练手~~
