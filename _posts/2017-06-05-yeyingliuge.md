@@ -85,7 +85,7 @@ _Symphony of ~~Nightmare~~ Nightingale_
 
 ---
 
->Fr：楼主不来我就要开始毁啦[滑稽]
+>Fr：楼主不来我就要开始毁啦![](http://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)
 
 刺目的阳光灼烧着楚夜歌的眼睛，让她几乎睁不开眼。在朦胧中，她似乎听到了一阵刺耳的刹车声，整个人就飘上了天，身体仿佛正在变的却越来越轻盈，最后灌入耳中的，是一个熟悉的声音。楚夜歌伸出手，想去触摸那声音的源头，却发现自己的手臂越来越沉。  
 
@@ -95,7 +95,7 @@ _Symphony of ~~Nightmare~~ Nightingale_
 
 楚夜歌，卒。
 
->Fr：这是个短片小笑话大家散了吧[滑稽]
+>Fr：这是个短片小笑话大家散了吧![](http://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)
 
 ---
 （2017-10-31）
