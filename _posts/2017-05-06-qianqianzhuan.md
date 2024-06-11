@@ -249,7 +249,7 @@ Ds的基础有机化学，可以说是我们之中最强悍而又最没用的装
 
 （2017-07-09）
 
-> Fr：程序总中心所处空间暂时命名为巴拿赫空间![滑稽][滑稽][滑稽]只是感觉很有趣
+> Fr：程序总中心所处空间暂时命名为巴拿赫空间!![](http://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)![](http://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)![](http://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t=20140803)只是感觉很有趣
 
 ---
 
