@@ -11,7 +11,11 @@ mermaid: true
 >Lr：“如约开坑~久违的总裁文”
 
 ---
-### 夜英流歌  Symphony of Nightingale
+
+### 夜英流歌  
+
+_Symphony of ~~Nightmare~~ Nightingale_
+
 
 “唔。。。”拂晓时分， 一声嘤咛划破了雨后清晨的宁静。少女似乎未曾安眠, 吃力地撑身坐起。  
 
