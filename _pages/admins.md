@@ -10,7 +10,7 @@ layout: post
 
 作，作就完了。亦真亦假，但他们存在，至少存在过。
 
-<span style="color: #FF00FF; font-size: 26px;">Fr</span> <span style="color: #FF00FF; font-size: 16px;">    HiSU创始人，上帝游戏队长</span>
+<span style="color: #FF00FF; font-size: 26px;">Fr</span> <span style="color: #FF00FF; font-size: 16px;">　　HiSU创始人，上帝游戏队长</span>
 
 快乐就完事了～
 
@@ -30,7 +30,7 @@ layout: post
 - 午饭只吃两块Q蒂长达一学期；
 - 成功有一位男朋友；
 
-<span style="color: #0000FF; font-size: 26px;">Sr</span> <span style="color: #0000FF; font-size: 16px;">    Time&HiSU创始人</span>
+<span style="color: #0000FF; font-size: 26px;">Sr</span> <span style="color: #0000FF; font-size: 16px;">　　Time&HiSU创始人</span>
 
 中二病晚期，摘掉眼镜即放弃思考
 
@@ -47,7 +47,7 @@ layout: post
 - 在校与Zr用一午休的时间为了娱乐烧完一整盒火柴，并互相烧漏了桌布；
 - 吃遍截至2018年所有种类的冰淇淋与泡面；
 
-<span style="color: Brown; font-size: 26px;">Zr</span> <span style="color: Brown; font-size: 16px;">    唯一指定医学生</span>
+<span style="color: Brown; font-size: 26px;">Zr</span> <span style="color: Brown; font-size: 16px;">　　唯一指定医学生</span>
 
 管理员中唯一的正常人
 
@@ -66,7 +66,7 @@ HiSU各类作死事件的受害者之一
 - 是世界上第一且唯一发现，理解，并忘记宇宙的意义的人类；
 - 在校与Sr用一午休的时间为了娱乐烧完一整盒火柴，并互相烧漏了桌布；
 
-<span style="color: ForestGreen; font-size: 26px;">Ds</span> <span style="color: ForestGreen; font-size: 16px;">    “大神”</span>
+<span style="color: ForestGreen; font-size: 26px;">Ds</span> <span style="color: ForestGreen; font-size: 16px;">　　“大神”</span>
 
 清高的文艺青年
 
@@ -84,7 +84,7 @@ HiSU各类作死事件的受害者之一
 - 一蹦蹦三米；
 - 被家里蹲机器人钦定为“受”；
 
-<span style="color: Gold; font-size: 26px;">Sb</span> <span style="color: Gold; font-size: 16px;">    现任HiSU葡萄园农场主</span>
+<span style="color: Gold; font-size: 26px;">Sb</span> <span style="color: Gold; font-size: 16px;">　　现任HiSU葡萄园农场主</span>
 
 实际管事儿的，责任心强，但重度强迫症
 
@@ -106,7 +106,7 @@ HiSU各类作死事件的受害者之二
 
 倒霉卷入故事的倒霉人。
 
-<span style="color: DarkViolet; font-size: 26px;">Lr</span> <span style="color: DarkViolet; font-size: 12px;">    万恶之源</span>
+<span style="color: DarkViolet; font-size: 26px;">Lr</span> <span style="color: DarkViolet; font-size: 16px;">　　万恶之源</span>
 
 外语水平极高，通晓世界文学、律法与音乐
 
@@ -122,7 +122,7 @@ HiSU各类作死事件的受害者之二
 - “Gladiator”：自称古罗马角斗士；
 - “林大熊”：沉迷AP课无法自拔；
 
-<span style="color: Aquamarine; font-size: 26px;">Ne</span> <span style="color: Aquamarine; font-size: 16px;">    创作型腐女</span> 
+<span style="color: Aquamarine; font-size: 26px;">Ne</span> <span style="color: Aquamarine; font-size: 16px;">　　创作型腐女</span> 
 
 吃谷狂魔，霸道总裁爱好者
 
@@ -135,7 +135,7 @@ HiSU各类作死事件的受害者之三
 成就：
 - 由于相关法律规定，此成就因涉***而无法显示。
 
-<span style="color: #FF0000; font-size: 26px;">KNT</span> <span style="color: #FF0000; font-size: 16px;">    ？？？</span>
+<span style="color: #FF0000; font-size: 26px;">KNT</span> <span style="color: #FF0000; font-size: 16px;">　　？？？</span>
 
 劲！霸！狂！傲！博弈巅峰！无人能敌！
 
