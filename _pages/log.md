@@ -14,8 +14,10 @@ layout: post
 
 ## :scroll: 日志
 
-- 2024.6.10
+- 2024-06-10
   - Sr突发奇想，于是建站了。
   - 更改 about, contact, README.md, _config.yml。新建 log.md。
   - 添加 图片。
   - 添加 「超理诗会」，「Zr的篮球」
+- 2024-06-11
+  - 添加「夜英流歌」，「前前传」
