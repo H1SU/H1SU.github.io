@@ -10,11 +10,11 @@ layout: post
 
 作，作就完了。亦真亦假，但他们存在，至少存在过。
 
-<span style="color: #FF00FF; font-size: 26px;">Fr</span>
-
-HiSU创始人，游戏队长
+<span style="color: #FF00FF; font-size: 26px;">Fr</span> <span style="color: #FF00FF; font-size: 16px;">    HiSU创始人，上帝游戏队长</span>
 
 快乐就完事了～
+
+浪；实则稳得一匹，擅长丝血翻盘
 
 精通各类棋牌桌游，除了国际象棋
 
@@ -30,11 +30,11 @@ HiSU创始人，游戏队长
 - 午饭只吃两块Q蒂长达一学期；
 - 成功有一位男朋友；
 
-<span style="color: #0000FF; font-size: 26px;">Sr</span>
-
-HiSU创始人
+<span style="color: #0000FF; font-size: 26px;">Sr</span> <span style="color: #0000FF; font-size: 16px;">    Time&HiSU创始人</span>
 
 中二病晚期，摘掉眼镜即放弃思考
+
+话少，手残
 
 对各类桌游抱有极大兴趣，除了国际象棋
 
@@ -47,9 +47,11 @@ HiSU创始人
 - 在校与Zr用一午休的时间为了娱乐烧完一整盒火柴，并互相烧漏了桌布；
 - 吃遍截至2018年所有种类的冰淇淋与泡面；
 
-<span style="color: Brown; font-size: 26px;">Zr</span>
+<span style="color: Brown; font-size: 26px;">Zr</span> <span style="color: Brown; font-size: 16px;">    唯一指定医学生</span>
 
-唯一指定正常人，唯一指定医学生
+管理员中唯一的正常人
+
+八卦圣体
 
 HiSU各类作死事件的受害者之一
 
@@ -64,13 +66,13 @@ HiSU各类作死事件的受害者之一
 - 是世界上第一且唯一发现，理解，并忘记宇宙的意义的人类；
 - 在校与Sr用一午休的时间为了娱乐烧完一整盒火柴，并互相烧漏了桌布；
 
-<span style="color: ForestGreen; font-size: 26px;">Ds</span>
+<span style="color: ForestGreen; font-size: 26px;">Ds</span> <span style="color: ForestGreen; font-size: 16px;">    “大神”</span>
 
 清高的文艺青年
 
 讠吾——辶束——彳艮——忄曼——
 
-会下国际象棋，对钢笔有蜜汁喜爱
+会下国际象棋，对钢笔有秘之热爱
 
 能力：“基础有机化学”：动能武器，打人挺疼
 
@@ -82,13 +84,13 @@ HiSU各类作死事件的受害者之一
 - 一蹦蹦三米；
 - 被家里蹲机器人钦定为“受”；
 
-<span style="color: Gold; font-size: 26px;">Sb</span>
+<span style="color: Gold; font-size: 26px;">Sb</span> <span style="color: Gold; font-size: 16px;">    现任HiSU葡萄园农场主</span>
 
-实际管事儿的，现任HiSU葡萄园农场主
+实际管事儿的，责任心强，但重度强迫症
 
-HiSU各类作死事件的受害者之一
+现在是“热缩冷胀”的靠谱肥宅
 
-责任心强，但重度强迫症
+HiSU各类作死事件的受害者之二
 
 能力：“拔剑起舞”：项伯亦拔剑起舞
 
@@ -104,13 +106,11 @@ HiSU各类作死事件的受害者之一
 
 倒霉卷入故事的倒霉人。
 
-<span style="color: DarkViolet; font-size: 26px;">Lr</span>
-
-<span style="color: DarkViolet; font-size: 12px;">万恶之源</span>
+<span style="color: DarkViolet; font-size: 26px;">Lr</span> <span style="color: DarkViolet; font-size: 12px;">    万恶之源</span>
 
 外语水平极高，通晓世界文学、律法与音乐
 
-最初的HiSU各类作死事件的受害者
+最初的HiSU作死事件的受害者
 
 能力：钢琴：很好听
 
@@ -122,24 +122,20 @@ HiSU各类作死事件的受害者之一
 - “Gladiator”：自称古罗马角斗士；
 - “林大熊”：沉迷AP课无法自拔；
 
-<span style="color: Aquamarine; font-size: 26px;">Ne</span> 
+<span style="color: Aquamarine; font-size: 26px;">Ne</span> <span style="color: Aquamarine; font-size: 16px;">    创作型腐女</span> 
 
-创作型腐女
+吃谷狂魔，霸道总裁爱好者
 
-吃谷购物狂魔
-
-霸道总裁爱好者
-
-HiSU各类作死事件的受害者之一
+HiSU各类作死事件的受害者之三
 
 能力：“断袖分桃”：让任意两个男人成为cp
 
 爱好：看同人文
 
 成就：
-- 由于相关法律规定，此成就因涉【R18】而无法显示。
+- 由于相关法律规定，此成就因涉***而无法显示。
 
-<span style="color: #FF0000; font-size: 26px;">KNT</span>
+<span style="color: #FF0000; font-size: 26px;">KNT</span> <span style="color: #FF0000; font-size: 16px;">    ？？？</span>
 
 劲！霸！狂！傲！博弈巅峰！无人能敌！
 
