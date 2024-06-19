@@ -289,3 +289,26 @@
   background: #252737;
   font-weight: 600;
 }
+
+
+.book.color-theme-1 .book-body .page-wrapper .page-inner section.normal h1 {
+    color: #77bff8; /* 或者使用具体的色值 */
+}
+
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h1 {
+    color: #77bff8; /* 或者使用具体的色值 */
+}
+.book.color-theme-1 .book-body .page-wrapper .page-inner section.normal h2 {
+    color: #a3a6f2; /* 或者使用具体的色值 */
+}
+
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h2 {
+    color: #a3a6f2; /* 或者使用具体的色值 */
+}
+.book.color-theme-1 .book-body .page-wrapper .page-inner section.normal h3 {
+    color: #7ea7e4; /* 或者使用具体的色值 */
+}
+
+.book.color-theme-2 .book-body .page-wrapper .page-inner section.normal h3 {
+    color: #7ea7e4; /* 或者使用具体的色值 */
+}
