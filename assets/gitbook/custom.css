@@ -291,13 +291,13 @@ pre:has(code.language-mermaid[data-processed="true"]) {
 
 .book.color-theme-1 .book-body .body-inner .page-wrapper .page-inner h1,
 .book.color-theme-2 .book-body .body-inner .page-wrapper .page-inner h1 {
-    color: #77bff8; 
+    color: #77bff8 !important; 
 }
 .book.color-theme-1 .book-body .body-inner .page-wrapper .page-inner h2,
 .book.color-theme-2 .book-body .body-inner .page-wrapper .page-inner h2 {
-    color: #a3a6f2; 
+    color: #a3a6f2 !important; 
 }
 .book.color-theme-1 .book-body .body-inner .page-wrapper .page-inner h3,
 .book.color-theme-2 .book-body .body-inner .page-wrapper .page-inner h3 {
-    color: #7ea7e4; 
+    color: #7ea7e4 !important; 
 }
