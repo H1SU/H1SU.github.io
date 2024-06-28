@@ -1,5 +1,5 @@
 ---
-title: 完结｜狼人杀
+title: 番外｜狼人杀
 author: Sr
 date: 2016-11-11
 category: shortstory
