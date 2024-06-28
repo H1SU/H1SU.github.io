@@ -20,6 +20,8 @@ start………………………………
 
 参与者：Fr，Sr，Zr，Ne，Ds，Sb，Lr，K哥，JCZ，HXS，wcf，XXS，lkf，xn，Y哥，bsc，J哥，ztg
 
+视角：Fr
+
 ---
 
 ## <·First Night·>
