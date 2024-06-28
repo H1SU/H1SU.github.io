@@ -1,13 +1,13 @@
 ---
 title: 短篇｜诗之章（超理诗会）
 author: Sr
-date: 2017-09-30
+date: 2017-07-05
 category: shortstory
 layout: post
 mermaid: true
 ---
 
-作者: Sr，完结于: 2017-09-30
+作者: Sr，2017-07-05～2017-09-30（完结）
 
 
 ### 序
