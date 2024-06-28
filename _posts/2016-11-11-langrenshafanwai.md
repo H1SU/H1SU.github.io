@@ -6,7 +6,7 @@ category: shortstory
 layout: post
 mermaid: true
 ---
-作者: Fr，完结于: 2019-06-08
+作者: Fr，完结于: 2016-11-29
 
 >说好的双十一更新来啦，狼人杀番外第一轮专贴
 >
