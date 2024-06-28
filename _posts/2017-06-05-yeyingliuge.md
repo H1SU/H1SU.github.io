@@ -6,7 +6,7 @@ category: shortstory
 layout: post
 mermaid: true
 ---
-作者: Lr，捣乱的：Fr，Sr，完结(?)于: 2018-06-26
+作者: Lr；捣乱的：Fr，Sr，2017-06-05～2018-06-26（完结？）
 
 >Lr：“如约开坑~久违的总裁文”
 
