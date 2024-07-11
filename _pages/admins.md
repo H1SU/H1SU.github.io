@@ -40,15 +40,15 @@ layout: post
 - 59秒用不好使的鼠标完成扫雷高级；
 - 与Sr用100种方法毁灭Lr的宇宙；
 - 午饭只吃两块Q蒂长达一学期；
-- 成功有一位男朋友；
+
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <img src="https://h1su.github.io/assets/Sr-128.png" alt="Fr Image">
+        <img src="https://h1su.github.io/assets/Sr-128.png" alt="Sr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
-        <span style="color: #FF00FF; font-size: 26px;">Sr</span><br>
-        <span style="color: #FF00FF; font-size: 16px;">Time & HiSU创始人</span>
+        <span style="color: Blue; font-size: 26px;">Sr</span><br>
+        <span style="color: Blue; font-size: 16px;">Time & HiSU创始人</span>
         <p></p>
     </div>
 </div>
@@ -68,9 +68,19 @@ layout: post
 - 在校与Zr用一午休的时间为了娱乐烧完一整盒火柴，并互相烧漏了桌布；
 - 吃遍截至2018年所有种类的冰淇淋与泡面；
 
-<span style="color: Brown; font-size: 26px;">Zr</span> <span style="color: Brown; font-size: 16px;">　　唯一指定医学生</span>
 
-管理员中唯一的正常人
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://h1su.github.io/assets/Zr-128.png" alt="Zr Image">
+    </div>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: Brown; font-size: 26px;">Zr</span><br>
+        <span style="color: Brown; font-size: 16px;">唯一的正常人</span>
+        <p></p>
+    </div>
+</div>
+
+管理员中唯一指定医学生，正在研究长生不老药
 
 八卦圣体
 
@@ -87,9 +97,19 @@ HiSU各类作死事件的受害者之一
 - 是世界上第一且唯一发现，理解，并忘记宇宙的意义的人类；
 - 在校与Sr用一午休的时间为了娱乐烧完一整盒火柴，并互相烧漏了桌布；
 
-<span style="color: ForestGreen; font-size: 26px;">Ds</span> <span style="color: ForestGreen; font-size: 16px;">　　“大神”</span>
 
-清高的文艺青年
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://h1su.github.io/assets/Ds-128.png" alt="Ds Image">
+    </div>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: ForestGreen; font-size: 26px;">Ds</span><br>
+        <span style="color: ForestGreen; font-size: 16px;">“大神”</span>
+        <p></p>
+    </div>
+</div>
+
+文艺青年
 
 讠吾——辶束——彳艮——忄曼——
 
@@ -105,7 +125,17 @@ HiSU各类作死事件的受害者之一
 - 一蹦蹦三米；
 - 被家里蹲机器人钦定为“受”；
 
-<span style="color: Gold; font-size: 26px;">Sb</span> <span style="color: Gold; font-size: 16px;">　　现任HiSU葡萄园农场主</span>
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://h1su.github.io/assets/Sb-128.png" alt="Sb Image">
+    </div>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: Gold; font-size: 26px;">Sb</span><br>
+        <span style="color: Gold; font-size: 16px;">“现任HiSU葡萄园农场主”</span>
+        <p></p>
+    </div>
+</div>
 
 实际管事儿的，责任心强，但重度强迫症
 
@@ -127,7 +157,17 @@ HiSU各类作死事件的受害者之二
 
 倒霉卷入故事的倒霉人。
 
-<span style="color: DarkViolet; font-size: 26px;">Lr</span> <span style="color: DarkViolet; font-size: 16px;">　　万恶之源</span>
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://h1su.github.io/assets/Lr-128.png" alt="Lr Image">
+    </div>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: DarkViolet; font-size: 26px;">Lr</span><br>
+        <span style="color: DarkViolet; font-size: 16px;">万恶之源</span>
+        <p></p>
+    </div>
+</div>
 
 外语水平极高，通晓世界文学、律法与音乐
 
@@ -143,7 +183,17 @@ HiSU各类作死事件的受害者之二
 - “Gladiator”：自称古罗马角斗士；
 - “林大熊”：沉迷AP课无法自拔；
 
-<span style="color: Aquamarine; font-size: 26px;">Ne</span> <span style="color: Aquamarine; font-size: 16px;">　　创作型腐女</span> 
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://h1su.github.io/assets/Ne-128.png" alt="Ne Image">
+    </div>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: Aquamarine; font-size: 26px;">Ne</span><br>
+        <span style="color: Aquamarine; font-size: 16px;">创作型腐女</span>
+        <p></p>
+    </div>
+</div>
 
 吃谷狂魔，霸道总裁爱好者
 
@@ -156,7 +206,17 @@ HiSU各类作死事件的受害者之三
 成就：
 - 由于相关法律规定，此成就因涉***而无法显示。
 
-<span style="color: #FF0000; font-size: 26px;">KNT</span> <span style="color: #FF0000; font-size: 16px;">　　？？？</span>
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://h1su.github.io/assets/KNT-128.png" alt="KNT Image">
+    </div>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: #FF0000; font-size: 26px;">KNT</span><br>
+        <span style="color: #FF0000; font-size: 16px;">？？？</span>
+        <p></p>
+    </div>
+</div>
 
 劲！霸！狂！傲！博弈巅峰！无人能敌！
 
