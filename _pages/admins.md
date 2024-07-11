@@ -10,10 +10,6 @@ layout: post
 
 作，作就完了。亦真亦假，但他们存在，至少存在过。
 
-<span style="color: #FF00FF; font-size: 26px;">Fr</span> <span style="color: #FF00FF; font-size: 16px;">　　HiSU创始人，上帝游戏队长</span>
-
-![](https://h1su.github.io/assets/Fr-128.png)
-
 快乐就完事了～
 
 
@@ -21,12 +17,14 @@ layout: post
     <div style="flex: 1;">
         <img src="https://h1su.github.io/assets/Fr-128.png" alt="Fr Image">
     </div>
-    <div style="flex: 2; margin-left: 20px;">
-        <span style="color: #FF00FF; font-size: 26px;">Fr</span> 
-        <span style="color: #FF00FF; font-size: 16px;">　　HiSU创始人，上帝游戏队长</span>
-        <p>快乐就完事了～</p>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: #FF00FF; font-size: 26px;">Fr</span><br>
+        <span style="color: #FF00FF; font-size: 16px;">HiSU创始人，上帝游戏队长</span>
+        <p></p>
     </div>
 </div>
+
+快乐就完事了～
 
 浪；实则稳得一匹，擅长丝血翻盘
 
@@ -44,9 +42,16 @@ layout: post
 - 午饭只吃两块Q蒂长达一学期；
 - 成功有一位男朋友；
 
-<span style="color: #0000FF; font-size: 26px;">Sr</span> <span style="color: #0000FF; font-size: 16px;">　　Time&HiSU创始人</span>
-
-![](https://h1su.github.io/assets/Sr-128.png)
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://h1su.github.io/assets/Sr-128.png" alt="Fr Image">
+    </div>
+    <div style="flex: 2; margin-left: 10px;">
+        <span style="color: #FF00FF; font-size: 26px;">Sr</span><br>
+        <span style="color: #FF00FF; font-size: 16px;">Time & HiSU创始人</span>
+        <p></p>
+    </div>
+</div>
 
 中二病晚期，摘掉眼镜即放弃思考
 
