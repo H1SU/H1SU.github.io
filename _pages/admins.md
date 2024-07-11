@@ -18,6 +18,7 @@ layout: post
         <img src="https://h1su.github.io/assets/Fr-128.png" alt="Fr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: #FF00FF; font-size: 26px;">Fr</span><br>
         <span style="color: #FF00FF; font-size: 16px;">HiSU创始人，上帝游戏队长</span>
         <p></p>
@@ -49,6 +50,7 @@ layout: post
         <img src="https://h1su.github.io/assets/Sr-128.png" alt="Sr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: Blue; font-size: 26px;">Sr</span><br>
         <span style="color: Blue; font-size: 16px;">Time & HiSU创始人</span>
         <p></p>
@@ -78,6 +80,7 @@ layout: post
         <img src="https://h1su.github.io/assets/Zr-128.png" alt="Zr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: Brown; font-size: 26px;">Zr</span><br>
         <span style="color: Brown; font-size: 16px;">唯一的正常人</span>
         <p></p>
@@ -109,6 +112,7 @@ HiSU各类作死事件的受害者之一
         <img src="https://h1su.github.io/assets/Ds-128.png" alt="Ds Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: ForestGreen; font-size: 26px;">Ds</span><br>
         <span style="color: ForestGreen; font-size: 16px;">“大神”</span>
         <p></p>
@@ -139,6 +143,7 @@ HiSU各类作死事件的受害者之一
         <img src="https://h1su.github.io/assets/Sb-128.png" alt="Sb Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: Gold; font-size: 26px;">Sb</span><br>
         <span style="color: Gold; font-size: 16px;">“现任HiSU葡萄园农场主”</span>
         <p></p>
@@ -173,6 +178,7 @@ HiSU各类作死事件的受害者之二
         <img src="https://h1su.github.io/assets/Lr-128.png" alt="Lr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: DarkViolet; font-size: 26px;">Lr</span><br>
         <span style="color: DarkViolet; font-size: 16px;">万恶之源</span>
         <p></p>
@@ -201,6 +207,7 @@ HiSU各类作死事件的受害者之二
         <img src="https://h1su.github.io/assets/Ne-128.png" alt="Ne Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: Aquamarine; font-size: 26px;">Ne</span><br>
         <span style="color: Aquamarine; font-size: 16px;">创作型腐女</span>
         <p></p>
@@ -226,6 +233,7 @@ HiSU各类作死事件的受害者之三
         <img src="https://h1su.github.io/assets/KNT-128.png" alt="KNT Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
+        <br>
         <span style="color: #FF0000; font-size: 26px;">KNT</span><br>
         <span style="color: #FF0000; font-size: 16px;">？？？</span>
         <p></p>
