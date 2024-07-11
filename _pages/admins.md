@@ -16,6 +16,18 @@ layout: post
 
 快乐就完事了～
 
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <img src="https://github.com/H1SU/H1SU.github.io/blob/master/assets/Fr-128.png" alt="Fr Image">
+    </div>
+    <div style="flex: 2; margin-left: 20px;">
+        <span style="color: #FF00FF; font-size: 26px;">Fr</span> 
+        <span style="color: #FF00FF; font-size: 16px;">　　HiSU创始人，上帝游戏队长</span>
+        <p>快乐就完事了～</p>
+    </div>
+</div>
+
 浪；实则稳得一匹，擅长丝血翻盘
 
 精通各类棋牌桌游，除了国际象棋
