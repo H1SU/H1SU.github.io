@@ -12,6 +12,8 @@ layout: post
 
 <span style="color: #FF00FF; font-size: 26px;">Fr</span> <span style="color: #FF00FF; font-size: 16px;">　　HiSU创始人，上帝游戏队长</span>
 
+![](https://github.com/H1SU/H1SU.github.io/blob/master/assets/Fr-128.png)
+
 快乐就完事了～
 
 浪；实则稳得一匹，擅长丝血翻盘
@@ -31,6 +33,8 @@ layout: post
 - 成功有一位男朋友；
 
 <span style="color: #0000FF; font-size: 26px;">Sr</span> <span style="color: #0000FF; font-size: 16px;">　　Time&HiSU创始人</span>
+
+![](https://github.com/H1SU/H1SU.github.io/blob/master/assets/Sr-128.png)
 
 中二病晚期，摘掉眼镜即放弃思考
 
