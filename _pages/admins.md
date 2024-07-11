@@ -10,11 +10,11 @@ layout: post
 
 作，作就完了。亦真亦假，但他们存在，至少存在过。
 
-快乐就完事了～
 
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/Fr-128.png" alt="Fr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
@@ -42,8 +42,10 @@ layout: post
 - 午饭只吃两块Q蒂长达一学期；
 
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/Sr-128.png" alt="Sr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
@@ -69,8 +71,10 @@ layout: post
 - 吃遍截至2018年所有种类的冰淇淋与泡面；
 
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/Zr-128.png" alt="Zr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
@@ -98,8 +102,10 @@ HiSU各类作死事件的受害者之一
 - 在校与Sr用一午休的时间为了娱乐烧完一整盒火柴，并互相烧漏了桌布；
 
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/Ds-128.png" alt="Ds Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
@@ -126,8 +132,10 @@ HiSU各类作死事件的受害者之一
 - 被家里蹲机器人钦定为“受”；
 
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/Sb-128.png" alt="Sb Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
@@ -158,8 +166,10 @@ HiSU各类作死事件的受害者之二
 倒霉卷入故事的倒霉人。
 
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/Lr-128.png" alt="Lr Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
@@ -184,8 +194,10 @@ HiSU各类作死事件的受害者之二
 - “林大熊”：沉迷AP课无法自拔；
 
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/Ne-128.png" alt="Ne Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
@@ -207,8 +219,10 @@ HiSU各类作死事件的受害者之三
 - 由于相关法律规定，此成就因涉***而无法显示。
 
 
+
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
+        <br>
         <img src="https://h1su.github.io/assets/KNT-128.png" alt="KNT Image">
     </div>
     <div style="flex: 2; margin-left: 10px;">
