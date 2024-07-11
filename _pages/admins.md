@@ -12,14 +12,14 @@ layout: post
 
 <span style="color: #FF00FF; font-size: 26px;">Fr</span> <span style="color: #FF00FF; font-size: 16px;">　　HiSU创始人，上帝游戏队长</span>
 
-![](https://github.com/H1SU/H1SU.github.io/blob/master/assets/Fr-128.png)
+![](https://h1su.github.io/assets/Fr-128.png)
 
 快乐就完事了～
 
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1;">
-        <img src="https://github.com/H1SU/H1SU.github.io/blob/master/assets/Fr-128.png" alt="Fr Image">
+        <img src="https://h1su.github.io/assets/Fr-128.png" alt="Fr Image">
     </div>
     <div style="flex: 2; margin-left: 20px;">
         <span style="color: #FF00FF; font-size: 26px;">Fr</span> 
@@ -46,7 +46,7 @@ layout: post
 
 <span style="color: #0000FF; font-size: 26px;">Sr</span> <span style="color: #0000FF; font-size: 16px;">　　Time&HiSU创始人</span>
 
-![](https://github.com/H1SU/H1SU.github.io/blob/master/assets/Sr-128.png)
+![](https://h1su.github.io/assets/Sr-128.png)
 
 中二病晚期，摘掉眼镜即放弃思考
 
