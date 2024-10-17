@@ -2,7 +2,7 @@
 title: 短篇｜Zr的篮球
 author: Sr
 date: 2017-07-23
-category: shortstory
+category: short
 layout: post
 mermaid: true
 ---

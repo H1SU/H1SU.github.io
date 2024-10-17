@@ -2,7 +2,7 @@
 title: 短篇｜狼人杀番外
 author: Sr
 date: 2016-11-11
-category: shortstory
+category: short
 layout: post
 mermaid: true
 ---

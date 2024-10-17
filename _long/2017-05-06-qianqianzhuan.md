@@ -2,7 +2,7 @@
 title: 太监｜前前传
 author: Sr
 date: 2017-05-06
-category: shortstory
+category: long
 layout: post
 mermaid: true
 ---

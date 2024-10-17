@@ -2,7 +2,7 @@
 title: 短篇｜诗之章（超理诗会）
 author: Sr
 date: 2017-07-05
-category: shortstory
+category: short
 layout: post
 mermaid: true
 ---

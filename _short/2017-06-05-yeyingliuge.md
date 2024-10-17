@@ -2,7 +2,7 @@
 title: 万恶之源｜夜英流歌
 author: Sr
 date: 2017-06-05
-category: shortstory
+category: short
 layout: post
 mermaid: true
 ---

@@ -1,7 +1,41 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Time & HiSU
 permalink: /
+cover: https://h1su.github.io/assets/admins.png
+---
+
+## 于github.io重建HiSU。
+
+由于一些可悲的原因，Sr永久失去了weebly.com的账号，导致[原来的网站](https://timewithhisu.weebly.com/)删也删不得，改也改不得，遂转移到github pages。
+
+正在寻找可靠的手写识别方案中……
+
+## :pushpin: 布告栏
+
+网站尚处建设阶段。
+
+## :ledger: 日志
+
+- 2024-06-10
+  - Sr突发奇想，于是建站了。
+  - 更改 about, contact, README.md, _config.yml。新建 log.md。
+  - 添加 图片。
+  - 添加 「超理诗会」，「Zr的篮球」
+- 2024-06-11
+  - 添加「夜英流歌」，「前前传」
+- 2024-06-28
+  - 添加「狼人杀番外」  
+- 2024-10-12
+  - 架构崩了，重写 
+- 2024-10-17 
+  - 小改动
+
+
+---
+
+以下是Jekyll Gitbook Theme的readme.md
+
 ---
 
 Make Jelly site have a GitBook look!
