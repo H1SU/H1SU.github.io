@@ -1,5 +1,5 @@
 ---
-title: 太监｜前前传
+title: 长篇｜太监｜前前传
 author: Sr
 date: 2017-05-06
 category: long
