@@ -2,7 +2,7 @@
 layout: home
 title: Time & HiSU
 permalink: /
-cover: https://github.com/H1SU/H1SU.github.io/blob/master/assets/admins.jpg
+cover: https://H1SU.github.io/assets/admins.jpg
 ---
 
 ## 于github.io重建HiSU。

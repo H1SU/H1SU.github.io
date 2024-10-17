@@ -263,11 +263,11 @@ pre:has(code.language-mermaid[data-processed="true"]) {
 }
 
 .markdown-section h1 {
-    color: #1E90FF; 
+    color: #1E90FF !important; 
 }
 .markdown-section h2 {
-    color: #4169E1; 
+    color: #4169E1 !important; 
 }
 .markdown-section h3 {
-    color: #6A5ACD; 
+    color: #6A5ACD !important; 
 }
