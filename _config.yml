@@ -59,12 +59,16 @@ collections:
   short:
     output: true
     permalink: /:collection/:path/
+  talk:
+    output: true
+    permalink: /:collection/:path/
 
 
 ordered_collections:
   - pages
   - short
   - long
+  - talk
   - posts
 
 page_width: 800px
