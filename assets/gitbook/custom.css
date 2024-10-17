@@ -271,3 +271,23 @@ pre:has(code.language-mermaid[data-processed="true"]) {
 .markdown-section h3 {
     color: #6A5ACD !important; 
 }
+
+.color-theme-1 .markdown-section h1 {
+    color: #1E90FF !important; 
+}
+.color-theme-1 .markdown-section h2 {
+    color: #4169E1 !important; 
+}
+.color-theme-1 .markdown-section h3 {
+    color: #6A5ACD !important; 
+}
+
+.color-theme-2 .markdown-section h1 {
+    color: #1E90FF !important; 
+}
+.color-theme-2 .markdown-section h2 {
+    color: #4169E1 !important; 
+}
+.color-theme-2 .markdown-section h3 {
+    color: #6A5ACD !important; 
+}

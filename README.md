@@ -13,11 +13,11 @@ cover: https://h1su.github.io/assets/admins.jpg
 
 正在寻找可靠的手写识别方案中……
 
-## :pushpin: 布告栏
+### :pushpin: 布告栏
 
 网站尚处建设阶段。
 
-## :ledger: 更新日志
+### :ledger: 更新日志
 
 - 2024-06-10
   - Sr突发奇想，于是建站了。
