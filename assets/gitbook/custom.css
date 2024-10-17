@@ -261,3 +261,13 @@ pre:has(code.language-mermaid[data-processed="true"]) {
     --c-danger-title: #c00;
     --font-family: system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
 }
+
+.markdown-section h1 {
+    color: #1E90FF; 
+}
+.markdown-section h2 {
+    color: #4169E1; 
+}
+.markdown-section h3 {
+    color: #6A5ACD; 
+}
