@@ -2,10 +2,10 @@
 layout: home
 title: Time & HiSU
 permalink: /
-cover: https://H1SU.github.io/assets/admins.jpg
+cover: https://h1su.github.io/assets/admins.jpg
 ---
 
-## 于github.io重建HiSU。
+## 于github.io重建
 
 由于一些可悲的原因，Sr永久失去了weebly.com的账号，导致[原来的网站](https://timewithhisu.weebly.com/)删也删不得，改也改不得，遂转移到github pages。
 
