@@ -25,6 +25,34 @@ layout: post
 |2018| | | |家里蹲成功回归，KNT、Lr、Ne留在锑星家里蹲| |《正传：上帝游戏》
 | | | | |KNT作为图书管理员全面整理家里蹲储存|KNT, Fr, Sr, Zr, Sb, Ds, Lr, Ne|《Zr 的篮球》
 
+```
+gantt
+dateFormat  YYYY-MM-DD
+title 时间线
+
+
+section “现世”
+Time创始            :done,    des1, 2013-01-01,2014-01-01
+家里蹲 创始               :active,  des2, 2014-01-01, 2015-01-01
+家里蹲五人組确立               :         des3, 2015-09-01, 2015-01-01
+Future task2               :         des4, after des3, 5d
+
+```
+
+
+```
+    gitGraph
+       commit
+       commit
+       branch develop
+       commit
+       commit
+       commit
+       checkout main
+       commit
+       commit
+
+```
 
 ## 世界观
 
