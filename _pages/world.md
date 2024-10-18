@@ -34,17 +34,17 @@ mermaid: true
        commit id: "2015" tag: "家里蹲五人組确立，Time 实验室落址"
        commit tag: "冢里蹲第一届超理诗会举办成功"
        commit tag: "上帝游戏I 召开，家里蹲作为队伍参加上帝游戏"
-       branch 上帝世界
+       branch game
        commit tag: "KNT（？） 召开上帝游戏I，玩家被复制至祭坛"
        commit id: "2016" tag: "家里蹲队伍胜利，成为上帝创立锑星家里蹲"
        checkout main
        commit id: "2016" tag: "Zr 学习篮球"
-       checkout 上帝世界
+       checkout game
        commit tag: "锑星家里蹲第一场狼人系"
        commit id: "2017" tag: "祭坛游戏平台测试"
        checkout main
        commit id: "2017" tag: "夜英流歌"
-       checkout 上帝世界
+       checkout game
        commit tag: "神之游戏召开"
        commit tag: "家里蹲遭FR偷袭，全员强行进入上帝游戏II"
        commit tag: "FR召开上帝游戏II"
