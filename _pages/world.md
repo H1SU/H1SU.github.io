@@ -4,6 +4,7 @@ author: Sr
 date: 2024-10-17
 category: others
 layout: post
+mermaid: true
 ---
 
 ## 时间线
