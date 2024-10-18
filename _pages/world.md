@@ -26,7 +26,7 @@ mermaid: true
 |2018| | | |家里蹲成功回归，KNT、Lr、Ne留在锑星家里蹲| |《正传：上帝游戏》
 | | | | |KNT作为图书管理员全面整理家里蹲储存|KNT, Fr, Sr, Zr, Sb, Ds, Lr, Ne|《Zr 的篮球》
 
-```
+```mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title 时间线
@@ -41,7 +41,7 @@ Future task2               :         des4, after des3, 5d
 ```
 
 
-```
+```mermaid
     gitGraph
        commit
        commit
