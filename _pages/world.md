@@ -20,38 +20,37 @@ mermaid: true
 |2016| | | |家里蹲队伍胜利，成为上帝创立锑星家里蹲|Fr, Sr, Zr, Sb, Ds| 
 | |Zr 学习篮球|Zr, 白哥, Fr, Sr, Ne |《Zr的校园言情故事》|锑星家里蹲第一场狼人系|Fr, Sr, Zr, Sb, Ds, Lr, Ne等18人|《狼人杀番外》
 |2017| | | |祭坛游戏平台测试|Fr, Sr, Ds, 等等|《诗与尺规作图-几何之章》
-| |楚夜歌的放事|楚夜歌|《夜英流歌》|神之游戏召开|Fr, Sr, Zr, Sb, Ds, KNT, Ne, FR|《前传：上》
+| |夜英流歌|楚夜歌|《夜英流歌》|神之游戏召开|Fr, Sr, Zr, Sb, Ds, KNT, Ne, FR|《前传：上》
 | | | | |家里蹲遭FR偷袭，全员强行进入上帝游戏II| |《前传：下》
 | | | | |FR召开上帝游戏II| |《正传：上帝游戏》
 |2018| | | |家里蹲成功回归，KNT、Lr、Ne留在锑星家里蹲| |《正传：上帝游戏》
 | | | | |KNT作为图书管理员全面整理家里蹲储存|KNT, Fr, Sr, Zr, Sb, Ds, Lr, Ne|《Zr 的篮球》
 
-```mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title 时间线
-
-
-section “现世”
-Time创始            :done,    des1, 2013-01-01,2014-01-01
-家里蹲 创始               :active,  des2, 2014-01-01, 2015-01-01
-家里蹲五人組确立               :         des3, 2015-09-01, 2015-01-01
-Future task2               :         des4, after des3, 5d
-
-```
-
 
 ```mermaid
     gitGraph
-       commit
-       commit
-       branch develop
-       commit
-       commit
-       commit
+       commit id: "2013" tag: "Time 创始"
+       commit id: "2014" tag: "家里蹲 创始"
+       commit id: "2015" tag: "家里蹲五人組确立，Time 实验室落址"
+       commit tag: "冢里蹲第一届超理诗会举办成功"
+       commit tag: "上帝游戏I 召开，家里蹲作为队伍参加上帝游戏"
+       branch 上帝世界
+       commit tag: "KNT（？） 召开上帝游戏I，玩家被复制至祭坛"
+       commit id: "2016" tag: "家里蹲队伍胜利，成为上帝创立锑星家里蹲"
        checkout main
-       commit
-       commit
+       commit id: "2016" tag: "Zr 学习篮球"
+       checkout 上帝世界
+       commit tag: "锑星家里蹲第一场狼人系"
+       commit id: "2017" tag: "祭坛游戏平台测试"
+       checkout main
+       commit id: "2017" tag: "夜英流歌"
+       checkout 上帝世界
+       commit tag: "神之游戏召开"
+       commit tag: "家里蹲遭FR偷袭，全员强行进入上帝游戏II"
+       commit tag: "FR召开上帝游戏II"
+       commit id: "2018" tag: "家里蹲成功回归，KNT、Lr、Ne留在锑星家里蹲"
+       commit tag: "KNT作为图书管理员全面整理家里蹲储存"
+
 
 ```
 
