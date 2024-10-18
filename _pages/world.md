@@ -31,7 +31,7 @@ mermaid: true
 gantt
     title 时间线
     dateFormat YYYY-MM
-    tickInterval 1day
+    tickInterval 1year
     todayMarker stroke-width:5px,stroke:#0f0,opacity:0.5
         Time 创始          :milestone, 2013-01, 0d
         家里蹲 创始          :milestone, 2014-01, 0d
