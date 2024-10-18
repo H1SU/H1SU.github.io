@@ -62,13 +62,16 @@ collections:
   talk:
     output: true
     permalink: /:collection/:path/
-
+  trash:
+    output: true
+    permalink: /:collection/:path/
 
 ordered_collections:
   - pages
   - short
   - long
   - talk
+  - trash
   - posts
 
 page_width: 800px
