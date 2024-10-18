@@ -36,6 +36,8 @@ cover: https://h1su.github.io/assets/admins.jpg
   - 贴吧上的基本搬运完毕
   - 添加 时间线&世界观
   - 修改custom.css，为h1~h3添加颜色
+- 2024-10-18
+  - 修改_config.yml
 
 ---
 

@@ -1,16 +1,16 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+title:            HiSU
+longtitle:        HiSU
+author:           Sr, theme fork from Tao He
+email:            
 description: >
-  Build Jekyll site with the GitBook style.
+  Future Odyssey 2016.
 
 version:          1.0
 gitbook_version:  3.2.3
 
-url:              'https://sighingnow.github.io'
-baseurl:          '/jekyll-gitbook'
+url:              'https://h1su.github.io/'
+baseurl:          ' '
 rss:              RSS
 
 # bootstrap: use the remote theme for the site itself
@@ -44,7 +44,7 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
 # Disqus comments
-# disqushandler:            sighingnow
+disqushandler:            HiSU
 
 exclude:
   - _drafts
