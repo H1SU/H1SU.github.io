@@ -229,3 +229,5 @@ Sr用奇怪的眼神打量了我一遍，“废话！这是游戏规则的一部
 ”反正都能让游戏更有趣~那么，今天就先太监吧“
 
 于是乎，太监![alt text](https://tb2.bdstatic.com/tb/editor/images/face/i_f25.png?t%3D20140803)
+
+---

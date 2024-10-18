@@ -15,7 +15,8 @@ cover: https://h1su.github.io/assets/admins.jpg
 
 ### :pushpin: 布告栏
 
-网站尚处建设阶段。
+- 评论可以在左下角勾选匿名，不用注册账号，名称和邮箱随便填一个就行。
+- 网站尚处建设阶段。
 
 ### :ledger: 更新日志
 
@@ -38,6 +39,7 @@ cover: https://h1su.github.io/assets/admins.jpg
   - 修改custom.css，为h1~h3添加颜色
 - 2024-10-18
   - 修改_config.yml
+  - 添加基于 Disqus 的评论功能
 
 ---
 
