@@ -68,8 +68,8 @@ collections:
 
 ordered_collections:
   - pages
-  - short
   - long
+  - short
   - talk
   - trash
   - posts
