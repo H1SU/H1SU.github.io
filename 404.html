@@ -16,9 +16,28 @@ layout: home
   }
 </style>
 
-<div class="container">
-  <h1>你已来到荒原。</h1>
+<!--<div class="container">-->
+<!--  <h1>Sb曰：</h1>-->
 
+<!--  <p><strong>404</strong></p>-->
+<!--  <p>The requested page could not be found.</p>-->
+<!--</div>-->
+
+<div class="container">
+  <h1><span id="date"></span>，Sb曰：</h1>
   <p><strong>404</strong></p>
-  <p>The requested page could not be found.</p>
+  <p>找不到该页面。</p>
 </div>
+
+<script>
+  // 获取当前日期对象
+  const now = new Date();
+  // 获取月份（注意：getMonth() 返回的是 0~11，因此需要加 1）
+  const month = now.getMonth() + 1;
+  // 获取日期
+  const day = now.getDate();
+  // 将日期格式化为 "几月几日"
+  const dateStr = month + "月" + day + "日";
+  // 将格式化后的日期插入到 id 为 "date" 的元素中
+  document.getElementById("date").textContent = dateStr;
+</script>
