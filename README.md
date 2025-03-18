@@ -69,6 +69,7 @@ cover: https://h1su.github.io/assets/admins.jpg
   - 添加 基于 Disqus 的评论功能
 - 2024-10-24
   - 添加「探案集」，计划后续整理更新
+- 2025-03-18 test
 ---
 
 以下是Jekyll Gitbook Theme的readme.md
